@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pradum Sonkar
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently learning MERN Technologies
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me pradumsonkar9112@gmail.com
